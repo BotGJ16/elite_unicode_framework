@@ -1,6 +1,3 @@
-Bhai yeh lo **complete professional README.md** with all bug hunting commands! 🔥
-
----
 
 # 🚀 Elite Unicode Attack Framework v3.0
 
